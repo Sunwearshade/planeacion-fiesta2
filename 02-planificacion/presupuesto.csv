@@ -1,0 +1,18 @@
+codigo_edt,categoria,concepto,proveedor,cantidad,costo_unitario,costo_total,estado
+1.2.1,Sede,Renta del Salon Jardin Las Palmas,Salon Las Palmas,1,36000,36000,Contratado
+1.2.2,Sede,Donativo de misa y arreglos florales,Parroquia San Judas Tadeo,1,3200,3200,Contratado
+1.3.2,Alimentos,Banquete cena 3 tiempos,Banquetes Dona Chuy,150,320,48000,Contratado
+1.3.3,Alimentos,Pastel de XV anos 4 pisos,Pasteleria Dulce Encanto,1,4250,4250,Contratado
+1.3.4,Alimentos,Barra de bebidas hielo y refrescos,Distribuidora El Barril,1,10000,10000,Cotizado
+1.4.1,Imagen,Vestido de XV anos,Boutique Ilusion,1,12800,12800,Contratado
+1.4.1,Imagen,Zapatillas y accesorios,Boutique Ilusion,1,2500,2500,Cotizado
+1.4.2,Imagen,Maquillaje y peinado,Estetica Glamour,1,3500,3500,Contratado
+1.5.1,Ambientacion,Decoracion y centros de mesa,Decoraciones Aurora,1,12000,12000,Contratado
+1.5.2,Ambientacion,DJ audio e iluminacion,DJ Sonido Estelar,1,9000,9000,Contratado
+1.5.3,Ambientacion,Mariachi 1 hora,Mariachi Alma de Mexico,1,7000,7000,Contratado
+1.5.4,Ambientacion,Fotografia y video,Foto y Video Luz Nueva,1,13000,13000,Contratado
+1.6.2,Invitados,Invitaciones impresas,Imprenta Del Valle,150,25,3750,Contratado
+1.6.4,Invitados,Recuerdos para invitados,Detalles Mi Fiesta,150,40,6000,Cotizado
+1.1.2,Gestion,Transporte de la festejada,Autos Clasicos Rentas,1,4500,4500,Contratado
+1.1.2,Gestion,Reserva de contingencia,N/A,1,9500,9500,Disponible
+TOTAL,,,,,,185000,Autorizado
