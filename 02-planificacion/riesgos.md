@@ -1,6 +1,6 @@
 # Matriz de Riesgos
 
-Escala de probabilidad e impacto: **1 = muy bajo, 5 = muy alto**.
+Escala de probabilidad e impacto: **0 = muy bajo, 5 = muy alto**.
 Severidad = Probabilidad × Impacto. Se atienden primero los riesgos con severidad ≥ 12.
 
 | ID | Riesgo | Prob. | Impacto | Severidad | Respuesta | Responsable |
