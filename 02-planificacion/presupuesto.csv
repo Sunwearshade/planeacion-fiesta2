@@ -1,7 +1,7 @@
 codigo_edt,categoria,concepto,proveedor,cantidad,costo_unitario,costo_total,estado
 1.2.1,Sede,Renta del Salon Jardin Las Palmas,Salon Las Palmas,1,36000,36000,Contratado
 1.2.2,Sede,Donativo de misa y arreglos florales,Parroquia San Judas Tadeo,1,3200,3200,Contratado
-1.3.2,Alimentos,Banquete cena 3 tiempos,Banquetes Dona Chuy,150,320,48000,Contratado
+1.3.2,Alimentos,Banquete cena 3 tiempos,Banquetes Dona Chuy,150,375,56250,Contratado - ajuste SC-01
 1.3.3,Alimentos,Pastel de XV anos 4 pisos,Pasteleria Dulce Encanto,1,4250,4250,Contratado
 1.3.4,Alimentos,Barra de bebidas hielo y refrescos,Distribuidora El Barril,1,10000,10000,Cotizado
 1.4.1,Imagen,Vestido de XV anos,Boutique Ilusion,1,12800,12800,Contratado
@@ -14,5 +14,5 @@ codigo_edt,categoria,concepto,proveedor,cantidad,costo_unitario,costo_total,esta
 1.6.2,Invitados,Invitaciones impresas,Imprenta Del Valle,150,25,3750,Contratado
 1.6.4,Invitados,Recuerdos para invitados,Detalles Mi Fiesta,150,40,6000,Cotizado
 1.1.2,Gestion,Transporte de la festejada,Autos Clasicos Rentas,1,4500,4500,Contratado
-1.1.2,Gestion,Reserva de contingencia,N/A,1,9500,9500,Disponible
+1.1.2,Gestion,Reserva de contingencia,N/A,1,1250,1250,Parcialmente usada
 TOTAL,,,,,,185000,Autorizado
