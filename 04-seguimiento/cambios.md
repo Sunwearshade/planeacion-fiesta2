@@ -49,3 +49,15 @@ Así, mientras el cambio estuvo en revisión, la rama `main` conservó el presup
 | Aprobadas | 1 |
 | Rechazadas | 2 |
 | Impacto neto en el presupuesto | +$8,250.00 (absorbido por la reserva) |
+
+## Bitácora de aplicación de SC-01
+
+| Paso | Fecha | Evidencia en el repositorio |
+|------|-------|-----------------------------|
+| Solicitud recibida | 24/02/2026 | Registrada en este documento |
+| Cambio aprobado por el patrocinador | 25/02/2026 | Registrada en este documento |
+| Cambio trabajado en rama aislada | 25/02/2026 | Rama `cambio-banquete`, commit "Actualiza costo del banquete" |
+| Cambio integrado a la versión oficial | 26/02/2026 | `git merge cambio-banquete` sobre `main` |
+| Presupuesto vigente | 26/02/2026 | `02-planificacion/presupuesto.csv`: $375 por persona, total $56,250 |
+
+**Estado final de SC-01: APLICADO E INTEGRADO EN `main`.**
